@@ -14,4 +14,3 @@ foreach ($data as $d) {
     echo $d['nama']. "<br>";
     echo $d['alamat']. "<br>";
 }
-?>

@@ -18,4 +18,3 @@ $jsonfile = json_encode($data, JSON_PRETTY_PRINT);
 
 // Menyimpan data ke dalam anggota.json
 file_put_contents('anggota.json', $jsonfile);
-?>
