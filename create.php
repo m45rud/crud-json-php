@@ -9,7 +9,7 @@ $data [] = array(
 // Data 2
 $data [] = array(
     'no'     => 2,
-    'nama'   => 'Indah',
+    'nama'   => 'Dian',
     'alamat' => 'Madiun'
 );
 

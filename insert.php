@@ -11,7 +11,7 @@ $data = json_decode($anggota, true);
 // Data array baru
 $data [] = array(
     'no'     => 3,
-    'nama'   => 'Elika',
+    'nama'   => 'Bayu',
     'alamat' => 'Kediri'
 );
 
